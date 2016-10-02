@@ -68,6 +68,7 @@ if (typeof demFeels.extendEmotes === 'function') {
 		'solosisevolution': 'http://0.media.dorkly.cvcdn.com/67/87/ad9e4bf24d851a0481971ac2310ea3de.gif',
 		'ghoststrolling': 'https://media.giphy.com/media/nwErbJbGs6hBS/giphy.gif',
 		'jamesbreasts': 'http://stream1.gifsoup.com/view3/1797152/james-and-his-boobs-o.gif',
+		'feelschiaki': https://67.media.tumblr.com/1cf1ed3ec1f48e3c004be77cd0ea97d4/tumblr_o1dzg90nTn1v5vp36o1_400.gif,
 	});
 }
 
