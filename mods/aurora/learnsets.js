@@ -82,7 +82,6 @@ exports.BattleLearnsets = {
 	detuoy: { learnset: {
 		explosion: ["7L1"],
 	}},
-	
 	doduo: {learnset: {
 		acupressure: ["7L33”],
 		aerialace: ["7M"],
