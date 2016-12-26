@@ -116,7 +116,7 @@ exports.BattleMovedex = {
 				pokemon.cureStatus();
 			},
 		},
-		heal: [1, 2],
+		heal: [1, 1],
 		secondary: false,
 		target: "self",
 		type: "Ghost",
