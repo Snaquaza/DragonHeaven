@@ -2435,7 +2435,7 @@ exports.BattleScripts = {
 		}
 		return pokemon;
 	},
-	randomFotDTeam: function (side) {
+	randomfotwTeam: function (side) {
 		let pokemon = [];
 
 		let excludedTiers = {'NFE':1, 'LC Uber':1, 'LC':1};
